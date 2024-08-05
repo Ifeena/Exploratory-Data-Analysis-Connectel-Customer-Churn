@@ -28,3 +28,6 @@ This analysis will help identify key factors influencing churn and provide actio
 -  Categorical Features (Univariate Analysis)
 -  Categorical Features (Bi-variate Analysis)
 -  Categorical Features (Multivariate Analysis)
+
+# TECH STACK
+Jupter Note Book
