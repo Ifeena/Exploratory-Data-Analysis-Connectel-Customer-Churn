@@ -13,18 +13,18 @@ This analysis will help identify key factors influencing churn and provide actio
 1. Import Libraries.
 2. Load Dataset.
 3. Data Cleaning.
-- Investigate Dataset for Anomalies and Data Types.
-- Investigate missing value.
-- Drop Irrelevant Feature.
-- Convert Senior Citizen to Categorical Feature
-- Convert Churn to Numerical Feature
+-  Investigate Dataset for Anomalies and Data Types.
+-  Investigate missing value.
+-  Drop Irrelevant Feature.
+-  Convert Senior Citizen to Categorical Feature
+-  Convert Churn to Numerical Feature
 4. Final Cleaned Data for EDA.
-- Numerical Statistical Analysis.
-- Categorical Statistical Analysis.
+-  Numerical Statistical Analysis.
+-  Categorical Statistical Analysis.
 5. Exploratory Data Analysis.
-- Numerical Features (Univariate Analysis).
-- Numerical Features (Bi-variate Analysis).
-- Numerical Features (Multivariate Analysis).
-- Categorical Features (Univariate Analysis)
-- Categorical Features (Bi-variate Analysis)
-- Categorical Features (Multivariate Analysis)
+-  Numerical Features (Univariate Analysis).
+-  Numerical Features (Bi-variate Analysis).
+-  Numerical Features (Multivariate Analysis).
+-  Categorical Features (Univariate Analysis)
+-  Categorical Features (Bi-variate Analysis)
+-  Categorical Features (Multivariate Analysis)
